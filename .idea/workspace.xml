@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1077471-0fab-43c5-a562-6a4b10ebaae6" name="Default Changelist" comment="" />
+    <list default="true" id="e1077471-0fab-43c5-a562-6a4b10ebaae6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tip.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/zhang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/zhang.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WyK5xfXdz1yjqMcorVuIhkJuyj" />
   <component name="ProjectViewState">
@@ -14,8 +21,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../richang/use_requests" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="ServiceViewManager">
@@ -48,17 +56,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1580295576838" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1580620810725">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1581222754916">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580620810725" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1580620787995">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581222754916" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1581233488336">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580620787995" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1580620694672">
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581233488336" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1580802791345">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580620694672" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580802791345" />
   </component>
 </project>
