@@ -1,2 +1,13 @@
 scrapy startproject (项目名)
 scrapy genspider (爬虫名) (域名)
+
+selenium + chrome()
+(PhantomJS几经不在更新且不支持了)
+
+保存help结果
+import sys
+out = sys.stdout
+sys.stdout = open('filename', '操作方式')
+help(文档)
+sys.stdout.close()
+sys.out = out
