@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1077471-0fab-43c5-a562-6a4b10ebaae6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/epidemic/epidemic.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epidemic/epidemic/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/epidemic/epidemic/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epidemic/epidemic/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/epidemic/epidemic/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epidemic/epidemic/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/epidemic/epidemic/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epidemic/epidemic/spiders/epidemicspider.py" beforeDir="false" afterPath="$PROJECT_DIR$/epidemic/epidemic/spiders/epidemicspider.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../movie_example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -74,17 +69,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1580295576838" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1581473164139">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1581492892072">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581473164139" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581492892072" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1581306383331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581306383331" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1581384118107">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1581492886360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581384118107" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581492886360" />
   </component>
 </project>
