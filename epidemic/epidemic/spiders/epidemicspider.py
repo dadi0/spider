@@ -11,10 +11,10 @@ class EpidemicspiderSpider(scrapy.Spider):
     def parse(self, response):
         items = []
         item = EpidemicItem()
-        confirmed = response.xpath('//*[@id="ptab-0"]/div[2]/div[1]/div[3]/div[2]/text()').extract()
-        suspected = response.xpath('//*[@id="ptab-0"]/div[2]/div[1]/div[5]/div[2]/text()').extract()
-        cure = response.xpath('//*[@id="ptab-0"]/div[2]/div[2]/div[1]/div[2]/text()').extract()
-        death = response.xpath('//*[@id="ptab-0"]/div[2]/div[2]/div[5]/div[2]/text()').extract()
+        confirmed = response.xpath('//*[@id="ptab-0"]/div[1]/div[3]/div[1]/div[2]/text()').extract()
+        suspected = response.xpath('//*[@id="ptab-0"]/div[1]/div[2]/div[3]/div[2]/text()').extract()
+        cure = response.xpath('//*[@id="ptab-0"]/div[1]/div[3]/div[3]/div[2]/text()').extract()
+        death = response.xpath('//*[@id="ptab-0"]/div[1]/div[3]/div[5]/div[2]/text()').extract()
         item['confirmed'] = confirmed[0]
         item['suspected'] = suspected[0]
         item['cure'] = cure[0]
