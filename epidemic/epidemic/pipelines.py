@@ -13,13 +13,5 @@ class EpidemicPipeline(object):
         today = time.strftime('%Y-%m-%d', time.localtime())
         fileName = 'epidemic.txt'
         with codecs.open(fileName, 'a', 'utf-8') as fp:
-            fp.write(
-                "%s\t\t%s\t\t%s\t\t%s\t\t%s\n" % (
-                    today,
-                    item['confirmed'],
-                    item['suspected'],
-                    item['cure'],
-                    item['death']
-                )
-            )
+            fp.write(f"\n{today:16s}{item['confirmed']:12s}{item['suspected']:12s}{item['cure']:12s}{item['death']}")
         return item

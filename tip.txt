@@ -11,3 +11,7 @@ sys.stdout = open('filename', '操作方式')
 help(文档)
 sys.stdout.close()
 sys.out = out
+
+全中文文档对齐时可将传统ASCII空格\x20即半角空格转化为中文的全角空格\u3000
+
+一般情况下对齐需要
